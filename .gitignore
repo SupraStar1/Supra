@@ -1,9 +1,0 @@
-# plaintext sources and build tooling - the repo ships obfuscated builds only
-src/
-build.sh
-fakeluraph.py
-__pycache__/
-*.pyc
-*.obf.lua
-Loader/old/
-lib/
